@@ -2,7 +2,7 @@
 //to do so we will import scanner from a package name Util
 import java.util.Scanner;
 
-public class Hello {
+public class UserInput {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);//"scanner" is the object we will be working with
