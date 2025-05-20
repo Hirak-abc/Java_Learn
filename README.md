@@ -5,7 +5,7 @@
 </p>
 
 
-Welcome to my Java Learning Repository!  
+<h4 align="center">Welcome to my Java Learning Repository!</h4> 
 As I begin learning Java from scratch, I’ve decided to document **everything** I learn — including **code**, **comments**, and **explanations** — directly in the `.java` files.
 
 The goal?  
