@@ -15,7 +15,7 @@ The goal?
 
 ## 📚 Table of Contents
 
-> ✅ *Update this list as I learn more topics.*
+> ✅ *Will be updating this list as I learn more topics.*
 
 | S.No | Topic               | Description                        |
 |------|---------------------|------------------------------------|
