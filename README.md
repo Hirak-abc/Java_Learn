@@ -22,6 +22,7 @@ The goal?
 | 1.   | [Introduction to Java](#) | Features and setup       |
 | 2.   | [Variables](#)           | Data types and declarations        |
 | 3.   | [User Input](#)          | Taking input using Scanner class  |
+| 4.   | [Mad Libs Game](#)          | Multiple Scanner inputs for story  |
 
 ---
 
