@@ -23,6 +23,7 @@ The goal?
 | 2.   | [Variables](#)           | Data types and declarations        |
 | 3.   | [User Input](#)          | Taking input using Scanner class  |
 | 4.   | [Mad Libs Game](#)          | Multiple Scanner inputs for story  |
+| 5.   | [Arithmetic Operators](#)          | Briefly discussed the use of Arithmetic Operators in JAVA  |
 
 ---
 
