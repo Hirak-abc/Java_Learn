@@ -24,6 +24,7 @@ The goal?
 | 3.   | [User Input](#)          | Taking input using Scanner class  |
 | 4.   | [Mad Libs Game](#)          | Multiple Scanner inputs for story  |
 | 5.   | [Arithmetic Operators](#)          | Briefly discussed the use of Arithmetic Operators in JAVA  |
+| 6.   | [Shopping Cart Program](#)          | Built a basic Shopping Cart using the above concepts   |
 
 ---
 
