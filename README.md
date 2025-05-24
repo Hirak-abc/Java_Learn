@@ -19,8 +19,8 @@ The goal?
 
 | S.No | Topic               | Description                        |
 |------|---------------------|------------------------------------|
-| 1.   | [Introduction to Java](#) | Features and setup       |
-| 2.   | [Variables](#)           | Data types and declarations        |
+| 1.   | [Introduction to Java](#) | Features and setup (in Main.java)      |
+| 2.   | [Variables](#)           | Data types and declarations  (in Main.java)      |
 | 3.   | [User Input](#)          | Taking input using Scanner class  |
 | 4.   | [Mad Libs Game](#)          | Multiple Scanner inputs for story  |
 | 5.   | [Arithmetic Operators](#)          | Briefly discussed the use of Arithmetic Operators in JAVA  |
