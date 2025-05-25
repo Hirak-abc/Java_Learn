@@ -1,6 +1,6 @@
 import java.util.Random;//Random is imported to generate random integers,doubles or booleans.
 
-public class Random_Numbers{
+public class Random{
     public static void main(String[] args){
 
         Random random = new Random();//This line is much like the scanner class
