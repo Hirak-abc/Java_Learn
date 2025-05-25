@@ -26,6 +26,7 @@ The goal?
 | 5.   | [Arithmetic Operators](#)          | Briefly discussed the use of Arithmetic Operators in JAVA  |
 | 6.   | [Shopping Cart Program](#)          | Built a basic Shopping Cart using the above concepts   |
 | 7.   | [If Statements](#)          | Worked with if,else if and else statements   |
+| 8.   | [Random](#)          | Discussed the functionality of random module   |
 ---
 
 ## 🧭 Project Overview
