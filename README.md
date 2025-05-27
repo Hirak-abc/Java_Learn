@@ -28,6 +28,7 @@ The goal?
 | 7.   | [If Statements](#)          | Worked with if,else if and else statements   |
 | 8.   | [Random_Generate](#)          | Discussed the functionality of random module   |
 | 9.   | [Math_Class](#)          | Learnt & used Math class  |
+| 10.   | [Print_f](#)          | Learnt & used Printf statements  |
 ---
 
 ## 🧭 Project Overview
