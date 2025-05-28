@@ -29,6 +29,7 @@ The goal?
 | 8.   | [Random_Generate](#)          | Discussed the functionality of random module   |
 | 9.   | [Math_Class](#)          | Learnt & used Math class  |
 | 10.   | [Print_f](#)          | Learnt & used Printf statements  |
+| 11.   | [CI_Calculator](#)          | Compound Interest Calculator  |
 ---
 
 ## 🧭 Project Overview
