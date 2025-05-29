@@ -30,6 +30,7 @@ The goal?
 | 9.   | [Math_Class](#)          | Learnt & used Math class  |
 | 10.   | [Print_f](#)          | Learnt & used Printf statements  |
 | 11.   | [CI_Calculator](#)          | Compound Interest Calculator  |
+| 12.   | [Nested_ifStatements](#)          | Conditional Logic with Nested Conditional Blocks  |
 ---
 
 ## 🧭 Project Overview
