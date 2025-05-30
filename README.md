@@ -31,6 +31,7 @@ The goal?
 | 10.   | [Print_f](#)          | Learnt & used Printf statements  |
 | 11.   | [CI_Calculator](#)          | Compound Interest Calculator  |
 | 12.   | [Nested_ifStatements](#)          | Conditional Logic with Nested Conditional Blocks  |
+| 13.   | [StringMethods](#)          | Discussed a few important String Methods  |
 ---
 
 ## 🧭 Project Overview
