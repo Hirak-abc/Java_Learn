@@ -33,6 +33,7 @@ The goal?
 | 12.   | [Nested_ifStatements](#)          | Conditional Logic with Nested Conditional Blocks  |
 | 13.   | [StringMethods](#)          | Discussed a few important String Methods  |
 | 14.   | [substrings](#)          | Practiced Java Substring Operations  |
+| 15.   | [weightConverter](#)          | Weight Converter using if statements  |
 ---
 
 ## 🧭 Project Overview
