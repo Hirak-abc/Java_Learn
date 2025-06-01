@@ -34,6 +34,7 @@ The goal?
 | 13.   | [StringMethods](#)          | Discussed a few important String Methods  |
 | 14.   | [substrings](#)          | Practiced Java Substring Operations  |
 | 15.   | [weightConverter](#)          | Weight Converter using if statements  |
+| 16.   | [ternaryOperator](#)          | Used the ternary operator  |
 ---
 
 ## 🧭 Project Overview
