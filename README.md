@@ -35,6 +35,7 @@ The goal?
 | 14.   | [substrings](#)          | Practiced Java Substring Operations  |
 | 15.   | [weightConverter](#)          | Weight Converter using if statements  |
 | 16.   | [ternaryOperator](#)          | Used the ternary operator  |
+| 17.   | [tempConverter](#)          | Built a temperature converter using ternary operator  |
 ---
 
 ## 🧭 Project Overview
