@@ -36,6 +36,7 @@ The goal?
 | 15.   | [weightConverter](#)          | Weight Converter using if statements  |
 | 16.   | [ternaryOperator](#)          | Used the ternary operator  |
 | 17.   | [tempConverter](#)          | Built a temperature converter using ternary operator  |
+| 18.   | [enhancedSwitch](#)          | Used Enhanced Switches to make Cases |
 ---
 
 ## 🧭 Project Overview
