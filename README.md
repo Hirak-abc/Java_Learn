@@ -38,6 +38,7 @@ The goal?
 | 17.   | [tempConverter](#)          | Built a temperature converter using ternary operator  |
 | 18.   | [enhancedSwitch](#)          | enhanced switches for cleaner case handling |
 | 19.   | [enhancedSwitch](#)          | Used Enhanced Switches to make a Calculator |
+| 20.   | [logicalOperators](#)          | Utilized Logical Operators for Condition Handling |
 ---
 
 ## 🧭 Project Overview
