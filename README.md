@@ -39,6 +39,7 @@ The goal?
 | 18.   | [enhancedSwitch](#)          | enhanced switches for cleaner case handling |
 | 19.   | [enhancedSwitch](#)          | Used Enhanced Switches to make a Calculator |
 | 20.   | [logicalOperators](#)          | Utilized Logical Operators for Condition Handling |
+| 20.   | [whileLoop](#)          | Developed logic control using while loops |
 ---
 
 ## 🧭 Project Overview
