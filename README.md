@@ -40,6 +40,7 @@ The goal?
 | 19.   | [enhancedSwitch](#)          | Used Enhanced Switches to make a Calculator |
 | 20.   | [logicalOperators](#)          | Utilized Logical Operators for Condition Handling |
 | 20.   | [whileLoop](#)          | Developed logic control using while loops |
+| 21.   | [numberGuess](#)          | Number Guessing Game using Random Class |
 ---
 
 ## 🧭 Project Overview
