@@ -41,6 +41,7 @@ The goal?
 | 20.   | [logicalOperators](#)          | Utilized Logical Operators for Condition Handling |
 | 20.   | [whileLoop](#)          | Developed logic control using while loops |
 | 21.   | [numberGuess](#)          | Number Guessing Game using Random Class |
+| 22.   | [forLoop](#)          | For Loops explained with proper Syntax |
 ---
 
 ## 🧭 Project Overview
