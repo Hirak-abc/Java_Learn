@@ -42,6 +42,7 @@ The goal?
 | 20.   | [whileLoop](#)          | Developed logic control using while loops |
 | 21.   | [numberGuess](#)          | Number Guessing Game using Random Class |
 | 22.   | [forLoop](#)          | For Loops explained with proper Syntax |
+| 23.   | [ForLoopBreakContinue](#)          | Practiced break and continue in loops |
 ---
 
 ## 🧭 Project Overview
