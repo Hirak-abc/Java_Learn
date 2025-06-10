@@ -43,6 +43,7 @@ The goal?
 | 21.   | [numberGuess](#)          | Number Guessing Game using Random Class |
 | 22.   | [forLoop](#)          | For Loops explained with proper Syntax |
 | 23.   | [ForLoopBreakContinue](#)          | Practiced break and continue in loops |
+| 24.   | [NestedLoops](#)          | Learnt Nested Loops  |
 ---
 
 ## 🧭 Project Overview
