@@ -44,6 +44,7 @@ The goal?
 | 22.   | [forLoop](#)          | For Loops explained with proper Syntax |
 | 23.   | [ForLoopBreakContinue](#)          | Practiced break and continue in loops |
 | 24.   | [NestedLoops](#)          | Learnt Nested Loops  |
+| 25.   | [JavaMethods](#)          | Learnt Methods in Java  |
 ---
 
 ## 🧭 Project Overview
