@@ -45,7 +45,7 @@ The goal?
 | 23.   | [ForLoopBreakContinue](#)          | Practiced break and continue in loops |
 | 24.   | [NestedLoops](#)          | Learnt Nested Loops  |
 | 25.   | [JavaMethods](#)          | Learnt Methods in Java  |
-| 25.   | [Overload](#)          | Learned and Implemented Method Overloading Techniques  |
+| 26.   | [Overload](#)          | Learned and Implemented Method Overloading Techniques  |
 ---
 
 ## 🧭 Project Overview
