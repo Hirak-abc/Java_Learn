@@ -46,6 +46,7 @@ The goal?
 | 24.   | [NestedLoops](#)          | Learnt Nested Loops  |
 | 25.   | [JavaMethods](#)          | Learnt Methods in Java  |
 | 26.   | [Overload](#)          | Learned and Implemented Method Overloading Techniques  |
+| 27.   | [variableScope](#)          | Learnt Global and Local Variables Usage  |
 ---
 
 ## 🧭 Project Overview
