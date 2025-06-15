@@ -48,6 +48,7 @@ The goal?
 | 26.   | [Overload](#)          | Learned and Implemented Method Overloading Techniques  |
 | 27.   | [variableScope](#)          | Learnt Global and Local Variables Usage  |
 | 28.   | [SimpleBanking](#)          | Created a Simple Menu-Driven Banking System  |
+| 29.   | [DiceRoller](#)          | Rolled dice using random number generator  |
 ---
 
 ## 🧭 Project Overview
