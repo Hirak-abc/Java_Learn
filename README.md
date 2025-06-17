@@ -50,6 +50,7 @@ The goal?
 | 28.   | [SimpleBanking](#)          | Created a Simple Menu-Driven Banking System  |
 | 29.   | [DiceRoller](#)          | Rolled dice using random number generator  |
 | 30.   | [Array](#)          | Learned Array Basics with Practical Examples  |
+| 31.   | [UserInputArray](#)          | Stored User Input into Array |
 ---
 
 ## 🧭 Project Overview
