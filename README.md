@@ -51,6 +51,7 @@ The goal?
 | 29.   | [DiceRoller](#)          | Rolled dice using random number generator  |
 | 30.   | [Array](#)          | Learned Array Basics with Practical Examples  |
 | 31.   | [UserInputArray](#)          | Stored User Input into Array |
+| 32.   | [ArraySearch](#)          | Learnt Array Search Using Java |
 ---
 
 ## 🧭 Project Overview
