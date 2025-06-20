@@ -53,6 +53,7 @@ The goal?
 | 31.   | [UserInputArray](#)          | Stored User Input into Array |
 | 32.   | [ArraySearch](#)          | Learnt Array Search Using Java |
 | 33.   | [Varargs](#)          | Learnt varargs with flexible arguments |
+| 34.   | [TwoDArray](#)          | Explored Java 2D arrays with examples |
 ---
 
 ## 🧭 Project Overview
