@@ -54,6 +54,7 @@ The goal?
 | 32.   | [ArraySearch](#)          | Learnt Array Search Using Java |
 | 33.   | [Varargs](#)          | Learnt varargs with flexible arguments |
 | 34.   | [TwoDArray](#)          | Explored Java 2D arrays with examples |
+| 35.   | [QuizGame](#)          | Built a Java-based General Knowledge Quiz |
 ---
 
 ## 🧭 Project Overview
