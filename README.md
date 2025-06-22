@@ -55,6 +55,7 @@ The goal?
 | 33.   | [Varargs](#)          | Learnt varargs with flexible arguments |
 | 34.   | [TwoDArray](#)          | Explored Java 2D arrays with examples |
 | 35.   | [QuizGame](#)          | Built a Java-based General Knowledge Quiz |
+| 36.   | [ RockPaperScissors ](#)          | Created Java Rock Paper Scissors Game |
 ---
 
 ## 🧭 Project Overview
