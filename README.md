@@ -58,6 +58,7 @@ The goal?
 | 36.   | [RockPaperScissors](#)          | Created Java Rock Paper Scissors Game |
 | 37.   | [SlotMachine](#)          | Created a Java-based Slot Machine Game |
 | 38.   | [OOP](#)          | Discussion on Objects |
+| 39.   | [Constructor](#)          | Discussion on Constructor |
 ---
 
 ## 🧭 Project Overview
