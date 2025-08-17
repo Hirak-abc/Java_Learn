@@ -57,6 +57,7 @@ The goal?
 | 35.   | [QuizGame](#)          | Built a Java-based General Knowledge Quiz |
 | 36.   | [RockPaperScissors](#)          | Created Java Rock Paper Scissors Game |
 | 37.   | [SlotMachine](#)          | Created a Java-based Slot Machine Game |
+| 38.   | [OOP](#)          | Discussion on Objects |
 ---
 
 ## 🧭 Project Overview
